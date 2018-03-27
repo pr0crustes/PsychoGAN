@@ -4,7 +4,7 @@ PsychoGAN is GAN made Tensorflow that generates 128 x 128 pixels images, a proje
 
 # Model
 
-<img src="secundary/tensorboard_model.PNG" >
+<img src="secundary/model.PNG" >
 
 
 # Generator
