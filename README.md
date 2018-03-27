@@ -11,6 +11,7 @@ PsychoGAN is GAN made Tensorflow that generates 128 x 128 pixels images, a proje
 <br>
 The generator recieves noise, apply a dense linear layer and reshape to a conv2d compatible input, with then passes through:
 <br>
+<br>
 A Conv2d_transpose (fillters = 128, kernel = 5, strides = 2)<br>
 A Batch Norm<br>
 A Relu Activation<br>
@@ -26,6 +27,7 @@ A Tanh Activation<br>
 # Discriminator
 <br>
 The discriminator recieves images, classifying in real or fake. The model is as following:
+<br>
 <br>
 A Conv2d (fillters = 64, kernel = 5, strides = 4)<br>
 A Batch Norm<br>
