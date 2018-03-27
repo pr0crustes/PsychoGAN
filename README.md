@@ -57,7 +57,7 @@ Real Images Discriminator Loss:<br>
 Fake Images Discriminator Loss:<br>
 <img src="secundary/losses/dfake_loss.png" >
 Combined Discriminator Loss:<br>
-<img src"secundary/losses/d_loss.png" >
+<img src="secundary/losses/d_loss.png" >
 Generator Loss:<br>
 <img src="secundary/losses/g_loss.png" >
 
